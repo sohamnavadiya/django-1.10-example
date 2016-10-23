@@ -22,8 +22,6 @@ SECRET_KEY = 'vx2(%(ktgc-o6^onn3i*7uzynxk8cjm#bo9%sz+*x8_bwd4ke)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-TEMPLATE_DEBUG = True
-
 ALLOWED_HOSTS = []
 
 
